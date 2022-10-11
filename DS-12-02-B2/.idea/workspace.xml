@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc4c373a-772e-41dd-bbbd-74d1b9aac86f" name="Changes" comment="e1,e2,e3 y e4">
+      <change afterPath="$PROJECT_DIR$/../DS-12-02-PD/src/e1/Informe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DS-12-02-PD/src/e2/Informe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/e4/clases.jpeg" beforeDir="false" />
+    </list>
+    <list id="a8ba5700-fa2e-4538-8d75-f43c11ea8e77" name="Changes by miguimartinezzz" comment="Changes by miguimartinezzz" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zUYnLwls2feKTBrdqCP1WIEchh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/e4" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="e3" />
+      <recent name="e2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.NetworkTest">
+    <configuration name="ColegioTest.TestHogwarts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-12-02-B2" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="e1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e1" />
+      <option name="MAIN_CLASS_NAME" value="e1.ColegioTest" />
+      <option name="METHOD_NAME" value="TestHogwarts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ColegioTest.TestHowards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-12-02-B2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e1" />
+      <option name="MAIN_CLASS_NAME" value="e1.ColegioTest" />
+      <option name="METHOD_NAME" value="TestHowards" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CompararAnunciosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-12-02-B2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e2" />
+      <option name="MAIN_CLASS_NAME" value="e2.CompararAnunciosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-12-02-B2" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value="e3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e3" />
+      <option name="MAIN_CLASS_NAME" value="e3.NetworkTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NetworkTest.testUsuariosTabla" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DS-12-02-B2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="e3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="e3" />
+      <option name="MAIN_CLASS_NAME" value="e3.NetworkTest" />
+      <option name="METHOD_NAME" value="testUsuariosTabla" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ColegioTest" />
+      <item itemvalue="JUnit.ColegioTest.TestHogwarts" />
+      <item itemvalue="JUnit.ColegioTest.TestHowards" />
+      <item itemvalue="JUnit.CompararAnunciosTest" />
+      <item itemvalue="JUnit.NetworkTest" />
+      <item itemvalue="JUnit.NetworkTest.testUsuariosTabla" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.NetworkTest" />
+        <item itemvalue="JUnit.ColegioTest.TestHogwarts" />
+        <item itemvalue="JUnit.NetworkTest.testUsuariosTabla" />
+        <item itemvalue="JUnit.CompararAnunciosTest" />
+        <item itemvalue="JUnit.ColegioTest.TestHowards" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc4c373a-772e-41dd-bbbd-74d1b9aac86f" name="Changes" comment="" />
+      <created>1634204299537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634204299537</updated>
+      <workItem from="1634204300811" duration="2299000" />
+      <workItem from="1634809413489" duration="2428000" />
+      <workItem from="1635008454668" duration="599000" />
+      <workItem from="1635237518919" duration="5290000" />
+      <workItem from="1635325616179" duration="5304000" />
+      <workItem from="1635410901719" duration="4935000" />
+      <workItem from="1635429740261" duration="6123000" />
+      <workItem from="1635492033670" duration="4734000" />
+      <workItem from="1635519766554" duration="5615000" />
+      <workItem from="1635840501978" duration="14065000" />
+      <workItem from="1636015871467" duration="6763000" />
+      <workItem from="1636109350995" duration="1074000" />
+      <workItem from="1636202648392" duration="3427000" />
+      <workItem from="1636359349356" duration="10241000" />
+      <workItem from="1636443886090" duration="7560000" />
+      <workItem from="1636471798348" duration="13908000" />
+      <workItem from="1636530095761" duration="22165000" />
+      <workItem from="1636616360549" duration="3103000" />
+      <workItem from="1636619485357" duration="18636000" />
+      <workItem from="1636703042390" duration="972000" />
+      <workItem from="1636974441259" duration="598000" />
+      <workItem from="1637092213160" duration="1000" />
+      <workItem from="1637230666737" duration="931000" />
+      <workItem from="1637832010111" duration="232000" />
+      <workItem from="1637833786350" duration="4479000" />
+      <workItem from="1638179291852" duration="7000" />
+      <workItem from="1638301149016" duration="9000" />
+      <workItem from="1638353315109" duration="102000" />
+      <workItem from="1638437918069" duration="628000" />
+      <workItem from="1638979263066" duration="92000" />
+      <workItem from="1639419547425" duration="2891000" />
+      <workItem from="1639657738916" duration="394000" />
+      <workItem from="1639764016703" duration="46000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primera subida">
+      <created>1634204417000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1634204417000</updated>
+    </task>
+    <task id="LOCAL-00002" summary="e1 en proceso">
+      <created>1635443152680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635443152680</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Changes by miguimartinezzz">
+      <created>1635492080278</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635492080278</updated>
+    </task>
+    <task id="LOCAL-00004" summary="e1 casi acabado">
+      <created>1635852083303</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635852083303</updated>
+    </task>
+    <task id="LOCAL-00005" summary="e1 (primer testeo)">
+      <created>1635864969135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635864969135</updated>
+    </task>
+    <task id="LOCAL-00006" summary="e1,e2 y e3 en proceso">
+      <created>1636390622228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1636390622228</updated>
+    </task>
+    <task id="LOCAL-00007" summary="e1,e2 y e3">
+      <created>1636652865518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1636652865518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changes by miguimartinezzz">
+      <created>1636652962894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1636652962894</updated>
+    </task>
+    <task id="LOCAL-00009" summary="e1,e2 y e3">
+      <created>1636653011518</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1636653011518</updated>
+    </task>
+    <task id="LOCAL-00010" summary="e1,e2 y e3">
+      <created>1636653069386</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1636653069386</updated>
+    </task>
+    <task id="LOCAL-00011" summary="e1,e2 y e3">
+      <created>1636703165745</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1636703165745</updated>
+    </task>
+    <task id="LOCAL-00012" summary="e1,e2 y e3">
+      <created>1636703640458</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1636703640458</updated>
+    </task>
+    <task id="LOCAL-00013" summary="e1,e2,e3 y e4">
+      <created>1636703847554</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1636703847554</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primera subida" />
+    <MESSAGE value="e1 en proceso" />
+    <MESSAGE value="e1 casi acabado" />
+    <MESSAGE value="e1 (primer testeo)" />
+    <MESSAGE value="e1,e2 y e3 en proceso" />
+    <MESSAGE value="Changes by miguimartinezzz" />
+    <MESSAGE value="e1,e2 y e3" />
+    <MESSAGE value="e1,e2,e3 y e4" />
+    <option name="LAST_COMMIT_MESSAGE" value="e1,e2,e3 y e4" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DS_12_02_B2$ColegioTest_TestHogwarts.ic" NAME="ColegioTest.TestHogwarts Coverage Results" MODIFIED="1637232765088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>e1.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/DS_12_02_B2$NetworkTest.ic" NAME="NetworkTest Coverage Results" MODIFIED="1637233035939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>e3.*</FILTER>
+    </SUITE>
+  </component>
+</project>

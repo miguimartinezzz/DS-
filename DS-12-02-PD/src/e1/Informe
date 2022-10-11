@@ -1,0 +1,18 @@
+Informe del ejercicio 1 de la práctica de diseño de Eloy Cores Torres y Miguel Martínez Montáns.
+
+-EXPLICACIÓN DEL PATRÓN ELEGIDO:
+
+Hemos decidido aplicar el patrón composición ya que AND y OR se basan en crear una nueva lista a partir de la fusión de
+criterios, a partir de la composición ,como el propio nombre del patrón indica. Además nos pareció más sencillo porque
+identificamos rápidamente los componentes y composiciones, y el patrón nos facilitó la resolución del ejercicio, ya que
+una vez identificados era mucho más sencillo dar con la solución.
+
+-PRINCIPIOS DE DISEÑO APLICADOS:
+
++Principio de responsabilidad única: cada clase realiza una única operación, las clases componente solo tienen la
+ operación buscar y las composición solo tienen su respectiva operación(AND y OR).
++Principio de Sustitución de Liskov: cada clase se puede sustituir por su subclase. Por ejemplo la clase criterio y
+ cualquiera de los subcriterios.
++Principio de abierto  cerrado: está cerrado a modificaciones, y abierto a extensiones.
+Para añadir nuevos criterios solo habría que crear una nueva clase que extienda la clase criterios y añadirle su propio
+método buscar.

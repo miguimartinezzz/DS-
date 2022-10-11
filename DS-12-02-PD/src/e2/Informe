@@ -1,0 +1,14 @@
+Informe del ejercicio 2 de la práctica de diseño de Eloy Cores Torres y Miguel Martínez Montáns.
+
+-EXPLICACIÓN DEL PATRÓN ELEGIDO:
+
+En este caso dedujimos que se trataba del patrón estrategia ya que representamos las relaciones entre padres e hijos en
+dos vectores separados, y esos vectores iban a ser reordenados en un nuevo vector,cosa que coincidía con el patrón
+estrategia a la perfección a medida que íbamos desarrollando el código. También pensamos en el patrón iterator pero
+estrategia nos pareció el más adecuado en cuanto a nuestro modo de pensar como resolver el ejercicio, porque aplicamos
+tres estrategias concretas para reordenar los vectores.
+
+-PRINCIPIOS DE DISEÑO APLICADOS:
+-Principio de Responsabilidad Única: Al igual que en el anterior ejercicio, este principio es esencial en este ya que
+cada clase realiza una única operación ,excepto la clase vector que contiene los getters y setters necesarios además de
+la operación Ordenar.

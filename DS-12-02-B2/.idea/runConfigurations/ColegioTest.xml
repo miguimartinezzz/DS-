@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ColegioTest" type="JUnit" factoryName="JUnit">
+    <module name="DS-12-02-B2" />
+    <option name="PACKAGE_NAME" value="e1" />
+    <option name="MAIN_CLASS_NAME" value="e1.ColegioTest" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="class" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
